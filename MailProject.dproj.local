@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.430,=D:\PC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.263,=D:\PC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.784,=D:\PC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.243,=D:\PC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.300,=D:\PC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.189,=D:\PC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.301,=D:\PC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.211,=D:\PC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.845,=D:\PC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.794,=D:\PC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.388,=D:\PC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.735,=D:\PC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.825,=D:\PC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.780,=D:\PC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.341,=D:\PC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.562,=D:\PC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.446,=D:\PC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018.08.18 17:40:49.951,=D:\PC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018.08.18 17:41:56.398,D:\Project\RX10.2\Proj 17 Mail\Unit1.dfm=D:\PC\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018.08.18 17:41:56.398,D:\Project\RX10.2\Proj 17 Mail\Unit1.pas=D:\PC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018.08.18 17:41:57.793,D:\Project\RX10.2\Proj 17 Mail\Project1.dproj=D:\PC\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2018.08.18 17:42:02.378,D:\Project\RX10.2\Proj 17 Mail\uMain.dfm=D:\Project\RX10.2\Proj 17 Mail\Unit1.dfm</Transaction>
+    <Transaction>2018.08.18 17:42:02.378,D:\Project\RX10.2\Proj 17 Mail\uMain.pas=D:\Project\RX10.2\Proj 17 Mail\Unit1.pas</Transaction>
+    <Transaction>2018.08.18 17:42:18.404,D:\Project\RX10.2\Proj 17 Mail\MailProject.dproj=D:\Project\RX10.2\Proj 17 Mail\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
